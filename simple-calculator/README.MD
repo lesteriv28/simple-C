@@ -23,3 +23,9 @@ A simple C based calculator that can perform addition, subtraction, division and
 6. User Feedback
   - Output Display: Program prints the result of arithmetic operation to console
   - Error Handling: If there are issues with input or format, the program displays relevant error messages.
+
+## Future Improvements
+1. Add concatenated operations
+  - User should be able to do multiple calculations in one line following PEMDAS.
+2. Add Modulo Operation
+  - User should be able to use '%' operator
