@@ -6,4 +6,4 @@
 
 List:
 1. Simple C calculator
-2. 
+2. Simple Student Management System
